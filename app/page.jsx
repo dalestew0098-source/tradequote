@@ -170,7 +170,7 @@ export default function Home() {
 
 <nav>
   <div class="nav-logo">Trade<span>Quote</span></div>
-  <a href="YOUR_VERCEL_URL_HERE" class="nav-cta">Try it free →</a>
+  <a href="https://tradequote-beryl.vercel.app/tool" class="nav-cta">Try it free →</a>
 </nav>
 
 <section class="hero">
@@ -181,7 +181,7 @@ export default function Home() {
     <h1>Stop <em>losing jobs</em><br>to slow <span class="outline">quotes</span></h1>
     <p class="hero-sub"><strong>TradeQuote</strong> is a free quote and invoice generator built specifically for HVAC techs. Tap a template, add your client, send a professional PDF — in under 30 seconds. No sign up. No ads.</p>
     <div class="hero-actions">
-      <a href="YOUR_VERCEL_URL_HERE" class="btn-primary">Create your first quote →</a>
+      <a href="https://tradequote-beryl.vercel.app/tool" class="btn-primary">Create your first quote →</a>
       <a href="#how" class="btn-secondary">See how it works</a>
     </div>
     <div class="hero-proof">
@@ -319,18 +319,18 @@ export default function Home() {
   <div class="container">
     <h2 style="color:#fff">Your next quote takes 30 seconds</h2>
     <p>Free. No account. Works on your phone right now.</p>
-    <a href="YOUR_VERCEL_URL_HERE" class="btn-white">Create a free quote →</a>
+    <a href="https://tradequote-beryl.vercel.app/tool" class="btn-white">Create a free quote →</a>
     <p class="cta-small">No sign up · No credit card · No ads</p>
   </div>
 </div>
 
-<section style="background:#111418;border-top:1px solid #1E1E2E;border-bottom:1px solid #1E1E2E;padding:72px 24px;">
+<section style="background:#0A0A0F;border-top:1px solid #1E1E2E;border-bottom:1px solid #1E1E2E;padding:72px 24px;">
   <div style="max-width:640px;margin:0 auto;">
     <div style="display:flex;align-items:center;gap:10px;margin-bottom:16px;">
       <div style="width:20px;height:2px;background:#E8440A;"></div>
       <span style="font-family:sans-serif;font-size:9px;color:#E8440A;letter-spacing:0.22em;text-transform:uppercase;">Coming Soon</span>
     </div>
-    <div style="font-family:sans-serif;font-weight:900;font-size:clamp(40px,8vw,68px);line-height:0.95;color:#FAFAF8;margin-bottom:16px;">
+    <div style="font-family:sans-serif;font-weight:900;font-size:clamp(40px,8vw,64px);line-height:0.95;color:#FAFAF8;margin-bottom:16px;">
       TradeQuote<br/><span style="color:#E8440A;">Pro — $39/mo</span>
     </div>
     <p style="font-size:15px;color:#888;line-height:1.65;max-width:480px;margin-bottom:28px;">
